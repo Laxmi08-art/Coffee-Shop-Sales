@@ -35,7 +35,8 @@ This project focuses on cleaning, analyzing, and visualizing coffee shop transac
 
 ## 📈 Dashboard Preview
 
-*(Insert a screenshot or GIF of your dashboard if hosted on GitHub or in a portfolio)*
+![image](https://github.com/user-attachments/assets/46fda9a1-0342-41f4-8657-b0213b8886f4)
+
 
 ## 📌 Future Enhancements
 
